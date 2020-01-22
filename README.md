@@ -17,3 +17,4 @@ Reference topics:
 - Universal Testing, Expanded Treatment, and Incidence of HIV Infection in Botswana. https://www.ncbi.nlm.nih.gov/pubmed/31314967 PMID: 31314967 (MarkhWirt19)
 - Using mathematical modeling to inform health policy: A case study from voluntary medical male circumcision scale-up in eastern and southern Africa and proposed framework for success. https://www.ncbi.nlm.nih.gov/pubmed/30883583 PMID: 30883583 (NjeuSchn19)
 - Perceived HIV-protective benefits of male circumcision: Risk compensatory behaviour among women in Malawi. https://www.ncbi.nlm.nih.gov/pubmed/30811397 PMID: 30811397 (KapuKing19)
+- Assessing tuberculosis control priorities in high-burden settings: a modelling approach. PMID: 30904521 (VesgHall19)
