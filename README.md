@@ -6,6 +6,7 @@ Main concepts:  can I tie it to norm and publc health behavior?
 - DHS and other data sets and field interview
 - by gender, sexuality, age
 - behavior:  sexual risk behavior (Risk compensation) vs. infectious contamination behvior
+- HIV and TB
 
 Questions:
 - 
